@@ -1,0 +1,30 @@
+body{
+    background-color: skyblue;
+}
+h1{
+    color: rebeccapurple;
+    margin: auto;
+    text-align: center;
+}
+h2{
+    color: white;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+}
+#Main{
+    margin-top: 0%;
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+}
+.Div1{
+    float: left;
+    text-align: center;
+    margin-top: 180px;
+}
+.Div2{
+    float: right;
+    text-align: center;
+    margin-top: 180px;
+}

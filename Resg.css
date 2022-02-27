@@ -1,0 +1,59 @@
+body{
+    background: linear-gradient(120deg, rgb(252, 245, 245), rgb(230, 219, 219));
+    margin: 0%;
+}
+#header{
+    background-color: rgb(11, 226, 137);
+    width: 1000px;
+    height: 700px;
+    text-align: center;
+    margin: auto;
+    border:solid rgb(12, 204, 172) 25px;
+    box-shadow: 1px 1px 60px 20px rgb(29, 4, 4);
+    
+}
+h2{
+    width: 170px;
+    padding: 17px;
+    margin-top: 0%;
+    text-align: center;
+    margin: auto;
+    color: aliceblue;
+    background-color: rgb(70, 24, 12);
+    border: solid rgb(250, 197, 197) 2px;
+    border-radius: 50%;
+    box-shadow: 1px 2px 40px 10px black;
+}
+#main{
+    margin-top: 50px;
+    height: 600px;
+    width: 900px;
+    background-color: aquamarine;
+    margin: auto;
+    box-shadow: 1px 1px 40px 5px black;
+}
+table{
+    height: 550px;
+    width: 900px;
+    background-color: aquamarine;
+    border: none;
+    padding: 20px;
+    
+}
+button{
+    font-size: 30px;
+    background-color: cyan;
+    box-shadow: 1px 2px 40px 2px black;
+    border-radius: 10px;
+}
+label{
+    background-color: antiquewhite;
+    border-radius: 2px;
+    font-size: large;
+}
+input{
+    background-color: antiquewhite;
+    border-radius: 2px;
+    font-size: large;
+
+}
